@@ -42,9 +42,24 @@
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Rizal-Supriadi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🎥 Featured YouTube Videos (Coming Soon)
-[![Cypress - Struktur Project Cypress](https://ytcards.demolab.com/?id=I7bg8JtgU0k&title=Cypress+-+Belajar+Automation+Testing&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "Cypress - Belajar Automation Testing")](https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7)
-
-[![Cypress - Konfigurasi dan Menjalankan Project](https://ytcards.demolab.com/?id=nKhgi5CU3x8&title=Cypress+-+Installasi+dan+Konfigurasi&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "Cypress - Installasi dan Konfigurasi")](https://www.youtube.com/watch?v=nKhgi5CU3x8&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=8)
+<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
+  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+</a>
+<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
+  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+</a>
+<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
+  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+</a>
+<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
+  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+</a>
+<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
+  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+</a>
+<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
+  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+</a>
 
 ## 📫 Connect with Me
 📧 Email: muhammadrizalsupriadi@gmail.com  
