@@ -41,24 +41,24 @@
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Rizal-Supriadi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-## 🎥 Featured YouTube Videos (Coming Soon)
+## 🎥 Featured YouTube Videos
 <a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
   <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
 </a>
-<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
-  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+<a href="https://www.youtube.com/watch?v=ND30jd1yFT0&list=PL9gMg2KJU21X8eRD9kESXWrLEGwhpB8SH&index=7">
+  <img src="https://img.youtube.com/vi/ND30jd1yFT0/0.jpg" width="250">
 </a>
-<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
-  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+<a href="https://www.youtube.com/watch?v=yppZQxQQkLc&list=PL9gMg2KJU21V-N-JxhIjIU4JxJGVN1YQa&index=1">
+  <img src="https://img.youtube.com/vi/yppZQxQQkLc/0.jpg" width="250">
 </a>
-<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
-  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+<a href="https://www.youtube.com/watch?v=nKhgi5CU3x8&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=8">
+  <img src="https://img.youtube.com/vi/nKhgi5CU3x8/0.jpg" width="250">
 </a>
-<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
-  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+<a href="https://www.youtube.com/watch?v=DfexmyyQ43E&list=PL9gMg2KJU21X8eRD9kESXWrLEGwhpB8SH&index=8">
+  <img src="https://img.youtube.com/vi/DfexmyyQ43E/0.jpg" width="250">
 </a>
-<a href="https://www.youtube.com/watch?v=I7bg8JtgU0k&list=PL9gMg2KJU21VLgDSLDs0VW2_RQCW3gL1u&index=7">
-  <img src="https://img.youtube.com/vi/I7bg8JtgU0k/0.jpg" width="250">
+<a href="https://www.youtube.com/watch?v=Qde_x2MNjo8&list=PL9gMg2KJU21V-N-JxhIjIU4JxJGVN1YQa&index=2">
+  <img src="https://img.youtube.com/vi/Qde_x2MNjo8/0.jpg" width="250">
 </a>
 
 ## 📫 Connect with Me
