@@ -73,9 +73,9 @@ Check out my **QA Portfolio**, which showcases my testing experience, including 
 </a>
 
 ## 📫 Connect with Me
-- Email: muhammadrizalsupriadi@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/muhammadrizalsupriadi/)  
-- [Portfolio Website](#) (Coming Soon)
+- Email: [muhammadrizalsupriadi@gmail.com](mailto:muhammadrizalsupriadi@gmail.com)  
+- LinkedIn: [linkedin.com/in/muhammad-rizal-supriadi](https://linkedin.com/in/muhammad-rizal-supriadi)  
+- GitHub: [github.com/Muhammad-Rizal-Supriadi](https://github.com/Muhammad-Rizal-Supriadi)  
 
 ---
 💡 *Let's collaborate and make software testing more efficient!* 🚀
