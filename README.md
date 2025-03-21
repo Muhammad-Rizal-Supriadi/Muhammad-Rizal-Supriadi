@@ -1,17 +1,23 @@
 # 👋 Hi, I'm Muhammad Rizal Supriadi!
-👨‍💻 Experienced Quality Assurance Engineer with 3+ years in Software Quality Assurance (SQA), specializing in Manual & Automation Testing<br/>
-🔍 Passionate about ensuring software quality and improving software reliability through automation and rigorous testing<br/>
-🛠️ Strong knowledge of SDLC, testing methodologies, and issue resolution with a structured approach
+- Experienced Quality Assurance Engineer with 3+ years in Software Quality Assurance (SQA), specializing in Manual & Automation Testing<br/>
+- Passionate about ensuring software quality and improving software reliability through automation and rigorous testing<br/>
+- Strong knowledge of SDLC, testing methodologies, and issue resolution with a structured approach
 
 ## 🎓 Education
-🎓 **Bachelor Degree: Informatics Engineering**  
-📍 Universitas Logistik dan Bisnis Internasional (ULBI)  
-🏆 GPA: **3.86/4.0 (Cumlaude)**
+- **Bachelor Degree: Informatics Engineering**  
+- Universitas Logistik dan Bisnis Internasional (ULBI)  
+- GPA: **3.86/4.0 (Cumlaude)**
 
 ## 🚀 About Me
-💡 Expertise in **Manual & Automation Testing, API Testing, Data Testing, and Business Analysis**<br/>
-📊 Skilled in **SDLC, Project Management, and Team Management**<br/>
-🎯 Focused on integrating **Test Automation, CI/CD, and DevOps into QA processes**
+- Expertise in **Manual & Automation Testing, API Testing, Data Testing, and Business Analysis**<br/>
+- Skilled in **SDLC, Project Management, and Team Management**<br/>
+- Focused on integrating **Test Automation, CI/CD, and DevOps into QA processes**
+
+## 📂 My Portfolio  
+Check out my **QA Portfolio**, which showcases my testing experience, including test cases, automation scripts, and test reports.  
+- **[QA Portfolio Repository](https://github.com/muhammadrizalsupriadi/qa-portfolio)**
+
+---
 
 ## 🛠️ Tech Stack
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -67,9 +73,9 @@
 </a>
 
 ## 📫 Connect with Me
-📧 Email: muhammadrizalsupriadi@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammadrizalsupriadi/)  
-📂 [Portfolio Website](#) (Coming Soon)
+- Email: muhammadrizalsupriadi@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/muhammadrizalsupriadi/)  
+- [Portfolio Website](#) (Coming Soon)
 
 ---
 💡 *Let's collaborate and make software testing more efficient!* 🚀
