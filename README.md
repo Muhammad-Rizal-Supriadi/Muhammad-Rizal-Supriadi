@@ -18,6 +18,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-9C27B0?style=for-the-badge&logo=appium&logoColor=white)
 ![Katalon Studio](https://img.shields.io/badge/-Katalon-00A859?style=for-the-badge&logo=katalon-studio&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FE7A16?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -29,6 +30,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## ⚡ Additional Skills
 - **Programming Languages:** JavaScript, TypeScript, PHP, Python, Java
