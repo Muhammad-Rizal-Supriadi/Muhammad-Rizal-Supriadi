@@ -70,3 +70,6 @@
 📧 Email: muhammadrizalsupriadi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadrizalsupriadi/)  
 📂 [Portfolio Website](#) (Coming Soon)
+
+---
+💡 *Let's collaborate and make software testing more efficient!* 🚀
