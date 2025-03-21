@@ -15,7 +15,7 @@
 
 ## 📂 My Portfolio  
 Check out my **QA Portfolio**, which showcases my testing experience, including test cases, automation scripts, and test reports.  
-- **[QA Portfolio Repository](https://github.com/muhammadrizalsupriadi/qa-portfolio)**
+- **[QA Portfolio Repository](https://github.com/Muhammad-Rizal-Supriadi/qa-portfolio)**
 
 ---
 
